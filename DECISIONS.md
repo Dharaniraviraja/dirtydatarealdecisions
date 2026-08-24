@@ -29,3 +29,4 @@ It does not prove why closure times changed. It identifies quality problems and 
 
 ## First improvement
 The first improvement would be to connect multiple historical exports and build a month-over-month closure-time trend, while preserving the same data-quality checks.
+The prototype was kept dependency-free so it can run in a clean Python environment.
