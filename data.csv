@@ -1,0 +1,16 @@
+case_id,closure_date,status,region,closure_days,benefit_amount
+C001,2026-07-01,Closed,Urban,12,1500
+C002,2026-07-02,Closed,Rural,18,2200
+C003,2026-07-03,Open,Urban,,1800
+C004,2026-07-04,Closed,Rural,25,2100
+C005,2026-07-05,Closed,Urban,31,3100
+C006,2026-07-06,Closed,Rural,-4,1900
+C007,2026-07-07,Closed,Urban,14,1700
+C008,2026-07-08,Open,Rural,,1600
+C009,2026-07-09,Closed,Urban,22,2500
+C010,2026-07-10,Closed,Rural,16,2300
+C010,2026-07-10,Closed,Rural,16,2300
+C011,2026-07-11,Closed,Urban,28,2800
+C012,2026-07-12,Closed,Rural,35,3200
+C013,2026-07-13,Closed,Urban,19,
+C014,2026-07-14,Closed,Rural,27,2400
