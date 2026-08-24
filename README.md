@@ -3,6 +3,7 @@
 ## Problem
 Case closure times have drifted and the available evidence comes from an old system export.  
 This prototype performs a small data-quality assessment and answers three operational questions from the available data.
+Prototype tested successfully with the included synthetic dataset.
 
 ## What the prototype does
 - Loads a CSV export.
